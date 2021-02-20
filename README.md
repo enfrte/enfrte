@@ -7,6 +7,7 @@
   - Electroneum etnkAcsZ63GD7qy8GSsGadP5eTsMZhmscYssLTiMYrfCUV5pWmKeMv6TY6GWYmdFJbJCq7zyPzyaPFFA68TL5Sxj2Na671cn7s
   - Bitcoin 1GVR2qbKgT4uVUQMYVgPhQxFcKRJBVYMo4
   - Cardano addr1q94ng66kdwfdxsw3x5syv30evvgfeha9vr5x0uhrt3yqerx8xmharq93g5lhk604lelwmn0r3px7cgfx8rkupwppx6rqnhq4cx
+  - Basic attention token 0x03cd93aC9b615aCC072d899931c4637dCf6d235c
 <!---
 enfrte/enfrte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
