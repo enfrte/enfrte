@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enfrte.
 - 👀 I’m interested in web dev, horticulture, cooking and fitness.
-- 🌱 I’m currently learning Elixir/Phoenix, and continuously  learning LAMP + JS. 
+- 🌱 I’m currently learning Dart/Flutter, and continuously learning LAMP + JS. 
 - 💞️ I’m looking to collaborate on nothing much at the moment.
 - 📫 How to reach me - https://twitter.com/enfrte 
 - ₿ I like crypto currency. Here are my public wallets. 
